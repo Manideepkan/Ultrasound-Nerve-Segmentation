@@ -106,6 +106,11 @@ Sample outputs:
 | ![](docs/outputs/sample_01.png) | ![](docs/outputs/sample_02.png) | ![](docs/outputs/sample_03.png) |
 | ![](docs/outputs/sample_04.png) | ![](docs/outputs/sample_05.png) | ![](docs/outputs/single_test_result.png) |
 
+## Authors
+
+- [Varshith](https://github.com/Varshith8999)
+- [Manideep Kan](https://github.com/Manideepkan)
+
 ## License
 
 MIT
